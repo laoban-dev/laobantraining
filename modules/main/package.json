@@ -1,5 +1,5 @@
 {
-  "name": "@laoban_training/training_cge_main",
+  "name": "@laoban_training/convertexistingproject_main",
   "description": "A simple react client that uses a library to demonstrate laoban",
   "version": "0.0.0",
   "bin": {},
@@ -7,8 +7,8 @@
   "license": "MIT",
   "repository": "git@github.com:laoban-github/laoban.git",
   "dependencies": {
-    "@laoban/training_cge_lib1": "0.0.0",
-    "@laoban/training_cge_lib2": "0.0.0",
+    "@laoban_training/convertexistingproject_lib1": "0.0.0",
+    "@laoban_training/convertexistingproject_lib2": "0.0.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-scripts": "4.0.3"
