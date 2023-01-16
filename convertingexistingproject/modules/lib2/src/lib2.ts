@@ -1,0 +1,1 @@
+export const lib2Value = 'lib2Value';
