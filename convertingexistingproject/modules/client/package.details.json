@@ -1,0 +1,11 @@
+{
+  "template": "typescript",
+  "name": "client",
+  "description": "",
+  "details": {
+    "publish": false,
+    "test": true,
+    "links": [],
+    "compile": true
+  }
+}
