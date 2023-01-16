@@ -8,10 +8,7 @@
   "repository": "git@github.com:laoban-github/laoban.git",
   "dependencies": {
     "@laoban_training/convertexistingproject_lib1": "0.0.0",
-    "@laoban_training/convertexistingproject_lib2": "0.0.0",
-    "react": "16.14.0",
-    "react-dom": "16.14.0",
-    "react-scripts": "4.0.3"
+    "@laoban_training/convertexistingproject_lib2": "0.0.0"
   },
   "devDependencies": {
     "typescript": "^4.0.5",
