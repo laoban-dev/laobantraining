@@ -3,7 +3,7 @@
 ## Structure
 
 This typescript monorepo project has very simple business logic to focus on the `laoban` integration . There is a `main`
-package that uses two libraries `lib1` and `lib2`. One is a javascript library and one a typescript library
+package that uses three libraries `lib1`, `lib2` and 'lib3. One is a javascript library and two are typescript library
 
 The main package just displays the values defined in the two libraries.
 

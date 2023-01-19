@@ -8,8 +8,8 @@
 
 # Quick overview of the example project
 
-* There are three packages: main, lib1 and lib2
-* The main displays the value lib1value from project lib1 and lib2value from lib2
+* There are four packages: main, lib1 (javascript) , lib2, lib3 and main (all typescript)
+* The main displays the value lib1value from project lib1, lib2value from lib2, lib3value from lib3
 * scripts/compile
 * scripts/test
 * scripts/run

@@ -1,4 +1,4 @@
-This project is a demonstration library: it exports a value `lib1value` that is used by the `main` package
+This project is a demonstration library: it exports a value `lib3value` that is used by the `main` package
 
 It is written in typescript
 
