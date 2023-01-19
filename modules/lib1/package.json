@@ -1,6 +1,6 @@
 {
   "name": "@laoban_training/convertexistingproject_lib1",
-  "description": "",
+  "description": "A sample javascript library",
   "version": "0.0.0",
   "bin": {},
   "keywords": [],
