@@ -1,0 +1,1 @@
+export const lib3Value = 'lib3Value';
