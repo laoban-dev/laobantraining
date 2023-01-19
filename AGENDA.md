@@ -13,7 +13,7 @@
 * scripts/compile
 * scripts/test
 * scripts/run
-* 
+
 # Adding laoban
 
 ## What will happen:
@@ -31,7 +31,7 @@
   * we need to add a new template called typescript which is 'our' typescript template based on the original but
   with our version number.
   * We need to select a project that is a 'prototype' for the new template
-* `laoban admin updatetemplate module/typescript`
+* `laoban admin updatetemplate --directory modules/main`
 * `laoban admin analyze --showimpact`
 * Observe
   * the impact is now low

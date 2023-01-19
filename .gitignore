@@ -3,12 +3,7 @@
 dist/
 node_modules/
 
-# Laoban ignores
-.cache/
-.session/
-.log
-.status
-.profile
+
 
 # ide ignores
 .idea/
