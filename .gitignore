@@ -1,9 +1,6 @@
-
 # javascript ignores
 dist/
 node_modules/
-
-
 
 # ide ignores
 .idea/
