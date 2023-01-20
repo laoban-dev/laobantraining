@@ -7,3 +7,13 @@ yarn-error.log
 
 # ide ignores
 .idea/
+
+# Laoban ignores
+.cache/
+.session/
+.log
+.status
+.profile
+.version.test.txt
+.package.details.test.json
+.laoban.test.json

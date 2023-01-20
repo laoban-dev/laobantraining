@@ -15,7 +15,6 @@
     "ts-jest":                     "^26.4.4"
   },
   "dependencies":    {
-    "@laoban_training/convertexistingproject_lib1": "1.2.3",
     "@laoban_training/convertexistingproject_lib2": "1.2.3",
     "@laoban_training/convertexistingproject_lib3": "1.2.3"
   },
