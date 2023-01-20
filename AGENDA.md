@@ -11,8 +11,8 @@ This is a summary of the information [here](https://laoban.dev/training/EXISTING
 
 # Quick overview of the example project
 
-* There are four packages: main, lib1 (javascript), lib2, lib3 and main (all typescript)
-* The main displays the value lib1value from project lib1, lib2value from lib2, lib3value from lib3
+* There are four packages: main, lib1 (javascript), lib2, lib3 and main (all typescript) under the `modules` directory
+* The main displays a value derived from the three libraries
 
 ```
      lib1      lib3
