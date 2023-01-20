@@ -62,6 +62,9 @@ laoban status
 ```
 
 And diagnose/fix the issue with the test in lib1 
+```shell
+laoban log -p lib1
+```
 
 ## Summary
 
@@ -78,6 +81,8 @@ laoban update                                                # updated the packa
 laoban compile
 laoban test
 laoban status                                                # showed us that we had a problem with the tests in lib1
+laoban log -p lib1                                           $ show us the last log in lib1
+``` 
 # edit package.details.json for lib1 to set test to false
 laoban clean
 laoban test
